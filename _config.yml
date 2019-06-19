@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Funda Durupinar Babur"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Funda Durupinar Babur"
+description              : &description "I am an assistant professor at UMass Boston. My research links computer graphics, animation and psychology with a focus on the realistic animation
+                                                                                      of virtual humans. "
+url                      : https://fdurupinar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "fdurupinar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,41 +81,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Funda Durupinar Babur"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am an assistant professor at the Department of Computer Science, UMass Boston.
+                        I received my B.S. from Middle East Technical University and my M.S. and Ph.D degrees from the Department of Computer Engineering at Bilkent University.
+                        After completing my Ph.D, I worked as a postdoctoral researcher at the Center for Human Modeling and Simulation, University of Pennsylvania. Then, I worked as a software engineer at the Computational Biology Department, Memorial Sloan Kettering Cancer Center and later at Oregon Health and Science University.
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=cCjHtOQAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  researchgate     :  "https://www.researchgate.net/profile/Funda_Durupinar"
+  github           : "fdurupinar"
+  instagram        :  "https://www.instagram.com/rorrimirror/"
+  linkedin         :"https://www.linkedin.com/in/funda-durupinar-2870955/"
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : "fdurupinar"
+  publons          :"https://publons.com/researcher/1287802/funda-durupinar/"
 
 
 # Reading Files
